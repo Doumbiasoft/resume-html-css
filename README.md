@@ -2,7 +2,7 @@
 
 A professional, responsive online resume built with pure HTML and CSS, showcasing modern web development skills and clean design principles.
 
-### Live at:
+### Live at: https://doumbiasoft.github.io/resume-html-css/
 
 ## Overview
 
