@@ -8,7 +8,7 @@ A professional, responsive online resume built with pure HTML and CSS, showcasin
 
 This project presents a comprehensive digital resume for Mouhamed Doumbia, a Full Stack Software Engineer with over a decade of experience. The resume features a dark theme with carefully crafted typography and responsive design that looks professional across all devices.
 
-<img src="/images/resume-html-css.png" alt="HTML Logo" >
+<img src="./images/resume-html-css.png" alt="HTML Logo" >
 
 ## Features
 
