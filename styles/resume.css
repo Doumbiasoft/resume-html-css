@@ -358,10 +358,12 @@ progress:after {
   .section2-left-side {
     width: 100%;
     flex-grow: 1;
+    order: 2;
   }
   .section2-right-side {
     flex-grow: 1;
     margin-left: 0px;
     margin-top: 0px;
+    order: 1;
   }
 }
