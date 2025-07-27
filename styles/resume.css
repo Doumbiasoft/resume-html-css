@@ -367,4 +367,7 @@ progress:after {
     margin-top: 0px;
     order: 1;
   }
+  .container {
+    margin-bottom: 0px;
+  }
 }
