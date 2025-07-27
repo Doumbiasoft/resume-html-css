@@ -14,9 +14,9 @@ This project presents a comprehensive digital resume for Mouhamed Doumbia, a Ful
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile viewing
 - **Dark Theme**: Modern dark color scheme with accent colors for better readability
-- **Social Media Integration**: Direct links to professional profiles (LinkedIn, GitHub, Twitter, RSS feed (HankerNews))
+- **Social Media Integration**: Direct links to professional profiles (LinkedIn, GitHub, X, RSS feed (HankerNews))
 - **Skills Visualization**:
-  - Programming skills with animated progress bars
+  - Programming skills with progress bars
   - Graphic design skills with color-coded indicators
   - Language proficiency with dot-based rating system
 - **Professional and Education Sections**:
@@ -34,7 +34,7 @@ This project presents a comprehensive digital resume for Mouhamed Doumbia, a Ful
   - CSS transitions and animations
   - Media queries for mobile responsiveness
   - Custom progress bars and visual indicators
-- **Font Awesome 4.7.0**: Icons for social media and UI elements
+- **Font Awesome 7**: Icons for social media and UI elements
 - **Google Fonts**: Open Sans font family for clean typography
 
 ## File Structure
